@@ -1,0 +1,7 @@
+{
+  "name": "San Urban News",
+  "description": "A 90s-inspired sensationalist news app set in a fictional urban sprawl. Features gang conflicts, political scandals, and street culture with a retro-tabloid aesthetic.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
